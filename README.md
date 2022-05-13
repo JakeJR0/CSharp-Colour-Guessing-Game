@@ -14,3 +14,4 @@ to learn the language.
 ## Possible Additions
 - Add a leaderboard system
 - Record all scores into a file.
+- Add difficulty settings to the game.
