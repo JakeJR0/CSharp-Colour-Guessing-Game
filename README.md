@@ -6,8 +6,8 @@ have remade the game in C# to help me gain some practice with programming with C
 to learn the language.
 
 ## Project Plan
-- Create a GUI that accepts a users input
-- The Colours for both the text of colour of the text must be randomised from a lise.
+- Create a GUI that accepts a users input.
+- The Colours for both the text of colour of the text must be randomised from a list.
 - The Program should have a timer of 30 seconds.
 - The program should keep score of the amount of correct answers.
 
