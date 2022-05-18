@@ -5,6 +5,9 @@ The program is a recreation of a game that I was tasked to make in python during
 have remade the game in C# to help me gain some practice with programming with C# as I am attempting
 to learn the language.
 
+## UI Preview
+![UI Preview](https://github.com/JakeJR0/CSharp-Colour-Guessing-Game/blob/main/Colour%20Guessing%20Game/images/UI_View.PNG)
+
 ## Project Plan
 - Create a GUI that accepts a users input.
 - The Colours for both the text of colour of the text must be randomised from a list.
